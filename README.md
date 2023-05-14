@@ -25,21 +25,45 @@ Overall, this system is an essential tool for faculty members who want to stream
 
 
 ![Screenshot (226)](https://github.com/obula-sai/student-management-system/assets/110908237/d421c7cb-aede-4162-8f2f-aff9dc9c1141)
+
+
 ![Screenshot (225)](https://github.com/obula-sai/student-management-system/assets/110908237/a9c1df17-17e5-46e4-9315-7621c765dfb8)
+
+
 ![Screenshot (228)](https://github.com/obula-sai/student-management-system/assets/110908237/c1f7b197-b12a-43bc-ae38-e2976f6dca92)
+
+
 ![Screenshot (229)](https://github.com/obula-sai/student-management-system/assets/110908237/c35471a7-70a9-43c4-b4d1-f2c8a91d5df5)
+
+
 ![Screenshot (230)](https://github.com/obula-sai/student-management-system/assets/110908237/f4db4b52-eb54-449b-a239-269db9b13d89)
+
+
 ![Screenshot (231)](https://github.com/obula-sai/student-management-system/assets/110908237/88ddbad6-0492-4073-b41f-0dac0e985c8e)
+
+
 ![Screenshot (235)](https://github.com/obula-sai/student-management-system/assets/110908237/0cf2fcc3-70e3-4c69-b25f-e78a44958dd6)
+
+
 ![Screenshot (211)](https://github.com/obula-sai/student-management-system/assets/110908237/cc95bfab-a9db-469e-81f5-d11ffa297a04)
+
+
 ![Screenshot (233)](https://github.com/obula-sai/student-management-system/assets/110908237/4ee481ed-8eb9-4d23-a0e9-b27c4c051176)
+
+
 ![Screenshot (216)](https://github.com/obula-sai/student-management-system/assets/110908237/10e45b6d-5b9b-405a-8433-6fa4649dd851)
+
+
 ![Screenshot (217)](https://github.com/obula-sai/student-management-system/assets/110908237/8fe46147-7d1d-41f8-91fb-f7f95c67d2ac)
 
 ![Screenshot (220)](https://github.com/obula-sai/student-management-system/assets/110908237/70a30cc7-8e80-4562-8505-ae4fc939ece5)
 
 ![Screenshot (234)](https://github.com/obula-sai/student-management-system/assets/110908237/67fbe699-4fb4-472d-8d1e-4e18d2d2bedd)
+
+
 ![Screenshot (223)](https://github.com/obula-sai/student-management-system/assets/110908237/298ea239-e22f-46e7-acff-42e989dff088)
+
+
 ![Screenshot (224)](https://github.com/obula-sai/student-management-system/assets/110908237/ad100ace-a859-4358-8d8b-e322ee8d5fa7)
 
 
