@@ -22,3 +22,6 @@ Overall, this system is an essential tool for faculty members who want to stream
 **Student search**: The system offers a search function, allowing faculty to quickly locate a specific student.
 
 **Faculty schedule management**: The system enables faculty to manage their schedules, including the subjects they are teaching and the days and periods on which they are teaching them.
+
+![Uploading Screenshot (226).png…]()
+
