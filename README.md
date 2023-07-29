@@ -44,10 +44,6 @@ Overall, this system is an essential tool for faculty members who want to stream
 
 
 
-![Screenshot (231)](https://github.com/obula-sai/student-management-system/assets/110908237/88ddbad6-0492-4073-b41f-0dac0e985c8e)
-
-
-
 ![Screenshot (235)](https://github.com/obula-sai/student-management-system/assets/110908237/0cf2fcc3-70e3-4c69-b25f-e78a44958dd6)
 
 
